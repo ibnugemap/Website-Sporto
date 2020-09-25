@@ -1,4 +1,5 @@
 # Website-Sporto
+Project yang saya buat adalah website e-commerce yang dinamakan SPORTO,apa itu website SPORTO?di website ini menjual sepatu olahraga dan bekerja sama dengan beberapa brand ternama.Dimana website ini dibuat lebih simple dan menarik.
  ![Screenshot_1](https://user-images.githubusercontent.com/46776279/94256023-587a4d00-ff53-11ea-989c-491b3262a23a.jpg)
 ![Screenshot_2](https://user-images.githubusercontent.com/46776279/94256247-b73fc680-ff53-11ea-8fd6-f5651845c319.jpg)
 ![Screenshot_3](https://user-images.githubusercontent.com/46776279/94256252-ba3ab700-ff53-11ea-90a0-a4ddb30cfede.jpg)
